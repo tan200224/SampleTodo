@@ -23,7 +23,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] User can customize their Todo app skins
+* [ ] User can set deadlines for their todo items
+* [ ] User can receive notification when the deadlines is almost meet
+
 
 ## Video Walkthrough
 
@@ -35,11 +38,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Dealing with different versions of java
+
+Importing the apache comonns.io
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Zhuohao Tan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
