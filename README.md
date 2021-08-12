@@ -38,9 +38,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Dealing with different versions of java
+The followings are some chanllengs that I had spent a lots of time to overcome.
 
-Importing the apache comonns.io
+1. Since I used different verison of Java. When I was typing the same thing as the insturction in the video, I keep getting errors.
+
+2. Some misspellings also caused a lots of errors in my project.
+
+3. I spent lots of time to debug as well.
 
 ## License
 
