@@ -38,13 +38,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The followings are some chanllengs that I had spent a lots of time to overcome.
+The followings are some challenges that I had spent a lot of time overcoming.
 
-1. Since I used different verison of Java. When I was typing the same thing as the insturction in the video, I keep getting errors.
+1. Since I used a different version of Java. When I was typing the same things as the instruction in the video, I keep getting errors.
 
-2. Some misspellings also caused a lots of errors in my project.
+2. Some misspellings also caused a lot of errors in my project.
 
-3. I spent lots of time to debug as well.
+3. The debugging process was annoying, and I have to be patient in order to figure out all the bugs.
+
+However, I think the project is exciting overall. I do enjoy working on this project and trying to understand every step in the instruction video.
 
 ## License
 
